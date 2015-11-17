@@ -1,0 +1,25 @@
+{
+  "uuid": "438d6da7-d7d1-4d3e-9dc2-d345682affb1",
+  "shortName": "JSON",
+  "longName": "JSON watchface",
+  "companyName": "Artem Lvov",
+  "versionLabel": "1.1",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt"],
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [
+      {
+        "type": "font",
+        "name": "VERA_MONO_BOLD_16",
+        "file": "veramono-bold.ttf",
+        "compatibility": "latest"
+      }
+    ]
+  }
+}
